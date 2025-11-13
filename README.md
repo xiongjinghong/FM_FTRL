@@ -5,6 +5,8 @@ Based on Tinrtgu's code at: http://www.kaggle.com/c/avazu-ctr-prediction/forums/
 
 data: https://www.kaggle.com/c/avazu-ctr-prediction/discussion/10927
 
+data: https://tianchi.aliyun.com/dataset/147617
+
 
 
 Features:
